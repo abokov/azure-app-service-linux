@@ -3,7 +3,7 @@ App Services : Web App on linux - node.js app, to be deployed onto App Services 
 Initially used during Ascend+ hackfests in Moscow/Russia for demos and prototyping.
 
 # Public link
-* tbd *
+Deployed in Azure Web app (linux ) :  preview   -  http://cloudtech-org-linux.azurewebsites.net/
 
 # Deck 
 Design web apps in Azure clouds http://www.slideshare.net/abokov/azure-web-app-services
