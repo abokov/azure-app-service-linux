@@ -6,5 +6,4 @@ Initially used during Ascend+ hackfests in Moscow/Russia for demos and prototypi
 * tbd *
 
 # Deck 
-
-* tbd *
+Design web apps in Azure clouds http://www.slideshare.net/abokov/azure-web-app-services
