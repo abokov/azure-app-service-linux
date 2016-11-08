@@ -7,3 +7,4 @@ Deployed in Azure Web app (linux ) :  preview   -  http://cloudtech-org-linux.az
 
 # Deck 
 Design web apps in Azure clouds http://www.slideshare.net/abokov/azure-web-app-services
+In russian (same deck but по русски - разработка и тестирование веб приложений в облаке Azure )  : http://www.slideshare.net/abokov/azure-web-apps-designing-and-debugging
